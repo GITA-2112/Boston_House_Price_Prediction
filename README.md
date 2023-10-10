@@ -2,6 +2,7 @@
 ![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/331ac9b0-03e7-4017-88fc-63054d97065f)
 
 ## Background Story 
+Purchasing a house,  one of the most significant decisions of your life. It's a decision that will shape your family's future, influence your daily life, and have financial implications for years to come. But in the ever-evolving real estate market, how do you determine the right price for a property? This is where the science and art of predicting house prices become crucial. 
 
 ## Objective 
 In a world where real estate transactions are more than just financial transactions – they're life-altering events – the ability to predict house prices accurately takes on paramount importance. Let's delve into why this prediction is so crucial and explore the compelling reasons behind its urgency :
