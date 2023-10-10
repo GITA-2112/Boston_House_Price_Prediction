@@ -1,5 +1,5 @@
 # Boston_House_Price_Prediction
-![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/622078ba-e561-48a1-8b45-b6ce4fb9955c)
+![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/331ac9b0-03e7-4017-88fc-63054d97065f)
 
 ## Dataset Overview
 The data is about predicting housing price MEDV (Median value of owner-occupied homes) in Boston city
