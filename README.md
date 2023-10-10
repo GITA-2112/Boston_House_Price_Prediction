@@ -10,7 +10,7 @@ Let's delve into why this prediction is so crucial and explore the compelling re
 3. Affordability, this knowledge empowers them to explore options that align with their financial capabilities.
 4. Fair Transactions, predicting house prices ensures that buyers and sellers are on an equal footing, facilitating transparent, ethical, and mutually beneficial deals.
 
-## Objective : Best House Price Prediction
+## Objective : Best Models for House Price Prediction
    
 ## Dataset Overview
 The data is about predicting housing price MEDV (Median value of owner-occupied homes) in Boston city
