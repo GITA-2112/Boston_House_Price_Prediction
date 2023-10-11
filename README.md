@@ -93,16 +93,27 @@ Insight : The smaller the residual distribution, the model shown has good perfor
 #### Residual - Ridge Regression
 ![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/2dc0175c-2d93-430b-9370-3361bb1ed16b)
 
-### Metrics Evaluation - Ridge Regression 
+#### Residual - Lasso
+![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/1229861d-e192-4bbb-95c8-1b0c7932b0cb)
+
+#### Metrics Evaluation - Ridge Regression 
 ![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/099858c3-488e-46bd-baeb-bb0a79ce6966)
+
+#### Metrics Evaluation - Lasso
+![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/0e87edfd-8cf1-4231-9d54-d95b91ef8514)
 
 MAE and MAPE provide valuable insights into the accuracy of your model's predictions.
 
 In summary, A lower MAE and a lower MAPE indicate better model performance, as they suggest that the model's predictions are closer to the actual values.
 
-## Conclusion
-### MEDV & Predicted Value
-![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/29b4642d-0736-4819-b416-2445655a2c98)
 
-### Table Comparison
-![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/370109e5-7f1b-4378-b7a8-0562c8474842)
+## Result
+### MEDV & Predicted Value 
+![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/1f67eff8-ac64-4b9c-9efa-48688578c5c4)
+
+### Table Comparison 
+![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/9ab185cc-8343-41a0-95d1-f0a2ab26e4ad)
+
+## Conclusion
+Based on the observation of RMSE, MAPE, and MAE values, the machine learning model that performs better is Ridge Regression compared to Lasso. While the scatter plot of actual vs. predicted values may appear somewhat similar, it is evident that the data points are closer to the y = x line in Ridge Regression. For a non-technical perspective, the comparison table is easy to interpret. The distribution of predicted prices between Ridge Regression and Lasso is notably different in sample number 385, when Ridge Regression produces predictions that closely align with the actual values, while predictions made using Lasso tend to under sale. On the other hand, some samples also exhibit overselling and underselling trends, usually within a range of approximately $2,000. It's important to consider these discrepancies in predictions, as they can significantly impact real-world decisions. However, these deviations can serve as a valuable benchmark for decision-making.
+
