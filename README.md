@@ -91,9 +91,6 @@ Insight : A high R2 indicates that the model explains a large portion of the var
 Insight : The smaller the residual distribution, the model shown has good performance. Ideally, the residual should be close to zero line, meaning the model is almost perfect at predicting the data.
 ![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/2dc0175c-2d93-430b-9370-3361bb1ed16b)
 
-### MEDV & Predicted Value
-![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/29b4642d-0736-4819-b416-2445655a2c98)
-
 ### Metrics Evaluation - Ridge Regression 
 ![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/099858c3-488e-46bd-baeb-bb0a79ce6966)
 
@@ -101,5 +98,9 @@ MAE and MAPE provide valuable insights into the accuracy of your model's predict
 
 In summary, A lower MAE and a lower MAPE indicate better model performance, as they suggest that the model's predictions are closer to the actual values.
 
-## Business Context
+## Conclusion
+### MEDV & Predicted Value
+![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/29b4642d-0736-4819-b416-2445655a2c98)
 
+### Table Comparison
+![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/370109e5-7f1b-4378-b7a8-0562c8474842)
