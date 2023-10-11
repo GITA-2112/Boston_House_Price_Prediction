@@ -89,6 +89,8 @@ Insight : A high R2 indicates that the model explains a large portion of the var
 
 ### Residual
 Insight : The smaller the residual distribution, the model shown has good performance. Ideally, the residual should be close to zero line, meaning the model is almost perfect at predicting the data.
+
+#### Residual - Ridge Regression
 ![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/2dc0175c-2d93-430b-9370-3361bb1ed16b)
 
 ### Metrics Evaluation - Ridge Regression 
