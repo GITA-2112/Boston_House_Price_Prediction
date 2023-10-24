@@ -75,7 +75,7 @@ A high VIF (Variance Inflation Factor), it indicates that the feature has a stro
   
 ![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/e400e3c2-cffc-4dfe-ba49-8c0b9d3e19c8)
 
-"Best Model - Ridge Regression, RMSE of Ridge regression model with alpha = 10 is 4.871717983886228"
+"Best Model - Ridge Regression, RMSE of Ridge regression model with alpha = 10 is 4.871717983886228 and RMSE of Lasso model with Alpha 1.0 is 4.845855910636398
 
 ## Diagnostic Study
 1. Validating Assumptions: Diagnostic studies help validate. Researchers often have initial hypotheses about what might be causing a problem, and a diagnostic study helps test these hypotheses.
@@ -115,5 +115,5 @@ In summary, A lower MAE and a lower MAPE indicate better model performance, as t
 ![image](https://github.com/GITA-2112/Boston_House_Price_Prediction/assets/135007275/9ab185cc-8343-41a0-95d1-f0a2ab26e4ad)
 
 ## Conclusion
-Based on the observation of RMSE, MAPE, and MAE values, the machine learning model that performs better is Ridge Regression compared to Lasso. While the scatter plot of actual vs. predicted values may appear somewhat similar, it is evident that the data points are closer to the y = x line in Ridge Regression. For a non-technical perspective, the comparison table is easy to interpret. The distribution of predicted prices between Ridge Regression and Lasso is notably different in sample number 385, when Ridge Regression produces predictions that closely align with the actual values, while predictions made using Lasso tend to under sale. On the other hand, some samples also exhibit overselling and underselling trends, usually within a range of approximately $2,000. It's important to consider these discrepancies in predictions, as they can significantly impact real-world decisions. However, these deviations can serve as a valuable benchmark for decision-making.
+Based on the observation of RMSE, MAPE, and MAE values, the machine learning model that performs better is Ridge Regression compared to Lasso. While the scatter plot of actual vs. predicted values may appear somewhat similar, it is evident that the data points are closer to the y = x line. For a non-technical perspective, the comparison table is easy to interpret. The distribution of predicted prices between Ridge Regression and Lasso is notably different in sample number 385, when Ridge Regression produces predictions that closely align with the actual values, while predictions made using Lasso tend to under sale. On the other hand, some samples also exhibit overselling and underselling trends, usually within a range of approximately $2,000. It's important to consider these discrepancies in predictions, as they can significantly impact real-world decisions. However, these deviations can serve as a valuable benchmark for decision-making.
 
